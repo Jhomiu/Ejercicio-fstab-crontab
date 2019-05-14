@@ -17,3 +17,7 @@ COnfiguramos cada disco
 ![alt text](https://github.com/Jhomiu/Ejercicio-fstab-crontab/blob/master/fstab7.JPG)
 ![alt text](https://github.com/Jhomiu/Ejercicio-fstab-crontab/blob/master/fstab8.JPG)
 ![alt text](https://github.com/Jhomiu/Ejercicio-fstab-crontab/blob/master/fstab9.JPG)
+
+Ejericico contrab
+
+![alt text](https://github.com/Jhomiu/Ejercicio-fstab-crontab/blob/master/crontab.JPG)
