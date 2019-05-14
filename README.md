@@ -1,8 +1,9 @@
 # Ejercicio-fstab-crontab
 
 Ejercicio fstab en la que se añaden dos discos ,uno con dos particiones, y otro con 3.
-
+Comprobamos cuantos discos tenemos
 ![alt text](https://github.com/Jhomiu/Ejercicio-fstab-crontab/blob/master/fstab1.JPG)
+Aqui ya estan agregados los dos discos,agregados desde la configuracion de la maquina en virtualbox
 ![alt text](https://github.com/Jhomiu/Ejercicio-fstab-crontab/blob/master/fstab2.JPG)
 ![alt text](https://github.com/Jhomiu/Ejercicio-fstab-crontab/blob/master/fstab3.JPG)
 ![alt text](https://github.com/Jhomiu/Ejercicio-fstab-crontab/blob/master/fstab4.JPG)
