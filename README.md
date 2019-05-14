@@ -8,7 +8,7 @@ Comprobamos cuantos discos tenemos
 Aqui ya estan agregados los dos discos,agregados desde la configuracion de la maquina en virtualbox
 ![alt text](https://github.com/Jhomiu/Ejercicio-fstab-crontab/blob/master/fstab2.JPG)
 
-COnfiguramos cada disco
+Configuramos cada disco segun pide el ejercicio,añadiendo sus particiones
 
 ![alt text](https://github.com/Jhomiu/Ejercicio-fstab-crontab/blob/master/fstab3.JPG)
 ![alt text](https://github.com/Jhomiu/Ejercicio-fstab-crontab/blob/master/fstab4.JPG)
@@ -18,6 +18,6 @@ COnfiguramos cada disco
 ![alt text](https://github.com/Jhomiu/Ejercicio-fstab-crontab/blob/master/fstab8.JPG)
 ![alt text](https://github.com/Jhomiu/Ejercicio-fstab-crontab/blob/master/fstab9.JPG)
 
-Ejericico contrab
+Ejercicio contrab
 
 ![alt text](https://github.com/Jhomiu/Ejercicio-fstab-crontab/blob/master/crontab.JPG)
